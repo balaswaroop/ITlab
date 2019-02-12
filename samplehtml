@@ -1,0 +1,65 @@
+<html>
+<head>
+<title> Presidency University</title>
+</head>
+<body>
+<table>
+<tr>
+<td>
+<marquee bgcolor="green">
+<h1> PRESIDENCY UNIVERSITY</h1>
+</marquee>
+<td>
+<img src="/home/student/Downloads/index.jpeg" width="150" height="130" align="right">
+</td>
+</tr>
+</td>
+</table>
+<div>
+<table>
+<tr>
+<th style="background-color:rgb(150,100,150)" width='400'>
+<div>
+<h3>Btech Course</h3>
+
+<ul type='square'>
+<li>First Time</li>
+<li>Second Time</li>
+<li><l style="color:yellow;background-color:hsl(120,60%,50%)">Third Time</li>
+<ol>
+<li>First Time</li>
+<li>Second Time</li>
+<li>Third Time</li>
+</ul>
+</ol>
+<ul type='square'>
+<li>First Time</li>
+<li>Second Time</li>
+<li>Third Time</li>
+</ul>
+<th style="background-color:rgb(120,180,150)" width='1000'>
+<center><h1> Welcome to CS</h1></center>
+<center><h4> Department of CS </h4></center>
+<ol align= "left" type="I">
+<li>First Time</li>
+<li>Second Time</li>
+<li>Third Time</li>
+</ol>
+</div>
+</th>
+<th style="background-color-Green" width='1000'>
+<center><h1> Welcome to CS</h1></center>
+<li>First Time</li>
+<li>Second Time</li>
+<li>Third Time</li>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
